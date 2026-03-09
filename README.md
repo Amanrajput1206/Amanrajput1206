@@ -14,9 +14,6 @@ I'm diving deep into advanced web animations using **Framer Motion** to create s
 
 I'm looking to contribute to exciting **open-source projects** and collaborate with fellow developers on innovative ideas. If you have something in mind, feel free to reach out!
 
-### 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amanrajput1206&layout=compact&theme=radical)
 
 ### 💬 Let's Connect
 
