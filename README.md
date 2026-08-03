@@ -13,12 +13,12 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 MTech CSE student at **IIIT Bangalore** (2026–2028), previously BTech CS at VIT
-- 🛠️ Direction: **backend engineering → distributed systems → ML infrastructure** — the substrate layer, not the trend layer
-- 💼 **Founding Engineer** at MegaWatt (part-time) — built a three-role web platform (Admin/EPC/Customer) plus a companion Android app
-- 🧱 Currently building **systems from scratch**: a key-value store in Go (in-memory hashmap → persistent WAL → concurrent clients → replication), with Raft consensus as the next milestone
-- 🧠 Daily practice on Codeforces and LeetCode alongside CS fundamentals — distributed systems, storage internals, OS/DBMS at implementation level
-- 📚 Working from *Designing Data-Intensive Applications*, the MIT 6.5840 labs, and the Raft paper
+- MTech CSE student at **IIIT Bangalore** (2026–2028)
+- Direction: **backend engineering → distributed systems → ML infrastructure** — the substrate layer, not the trend layer
+- **Founding Engineer** at MegaWatt (part-time) — built a three-role web platform (Admin/EPC/Customer) plus a companion Android app
+- Currently building **systems from scratch**: a key-value store in Go (in-memory hashmap → persistent WAL → concurrent clients → replication), with Raft consensus as the next milestone
+- Daily practice on Codeforces and LeetCode alongside CS fundamentals — distributed systems, storage internals, OS/DBMS at implementation level
+- Working from _Designing Data-Intensive Applications_, the MIT 6.5840 labs, and the Raft paper
 
 <br/>
 
@@ -50,7 +50,7 @@ Interested in systems-y open-source work — Go/Rust projects touching storage e
 <img src="https://raw.githubusercontent.com/Amanrajput1206/Amanrajput1206/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" width="100%"/>
 <img src="https://raw.githubusercontent.com/Amanrajput1206/Amanrajput1206/output/github-contribution-grid-snake.svg#gh-light-mode-only" width="100%"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amanrajput1206&layout=compact&theme=radical)
+![Top Languages](https://gh-readme-stats.vercel.app/api/top-langs/?username=Amanrajput1206&layout=compact&theme=radical)
 
 ### 💬 Let's Connect
 
